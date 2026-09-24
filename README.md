@@ -13,7 +13,7 @@
 </p>
 
 <div style="text-align: right">
-There are 10 types of people in the world. Those who get Binary and those who don't..
+Think like an attacker 🕵️‍♂️. Build like a defender 🛡️.
 </div>
 
 ## :computer: Technologies I Love
