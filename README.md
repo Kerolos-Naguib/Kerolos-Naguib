@@ -2,11 +2,11 @@
 
 <h1>Welcome to my humble abode in the Digital World..</h1>
 
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif?raw=true" alt="Matrix Code" align="right" width="350px"/>
+<img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/matrix.gif" alt="Matrix Code" align="right" width="350px">
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Kerolos%20Naguib-blue?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com/in/kerolos-n-a72263316)](https://www.linkedin.com/in/kerolos-n-a72263316)
-[![GitHub Badge](https://img.shields.io/badge/-Kerolos--Naguib-black?style=flat-square\&logo=github\&logoColor=white\&link=https://github.com/Kerolos-Naguib)](https://github.com/Kerolos-Naguib)
-[![TryHackMe Badge](https://img.shields.io/badge/-SpectreX01-red?style=flat-square\&logo=tryhackme\&logoColor=white\&link=https://tryhackme.com/p/SpectreX01)](https://tryhackme.com/p/SpectreX01)
+[![LinkedIn Badge](https://img.shields.io/badge/-Kerolos%20Naguib-blue?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/kerolos-n-a72263316)
+[![GitHub Badge](https://img.shields.io/badge/-Kerolos--Naguib-black?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Kerolos-Naguib)
+[![TryHackMe Badge](https://img.shields.io/badge/-SpectreX01-red?style=flat-square\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/SpectreX01)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Kerolos-Naguib" alt="Kerolos-Naguib" />
@@ -26,24 +26,27 @@ There are 10 types of people in the world. Those who get Binary and those who do
 * Secure Development
 * Cloud Security
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerolos-Naguib&layout=compact&theme=dark">](https://github-readme-stats.vercel.app/api/top-langs?username=Kerolos-Naguib&layout=compact&theme=dark)
 
 ## Programming Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30" alt="Bash"/>
+</p>
 
 ## Technologies I Use
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="VS Code"/>
+</p>
 
 ## Who am I?
 
@@ -73,8 +76,8 @@ class WhoAmI:
 
 ## Current Works
 
-* 🔐 Breaking into Cybersecurity !!
-* I'm currently working on 🔭 improving my **Cybersecurity & Web Security** skills and building stronger foundations in **Linux, Networking, CTFs and Programming**.
+* Breaking into Cybersecurity !!
+* I'm currently working on 🔭 improving my skills in **Cybersecurity & Web Security** and strengthening my foundations in **Linux, Networking, CTFs and Programming**.
 * I'm currently practicing 🌱 **C++ Problem Solving**.
 * My long-term goal is to specialize in ☁️ **Cloud Security**.
 
@@ -84,7 +87,7 @@ class WhoAmI:
 
 **Current Rank: Top 35%**
 
-Using TryHackMe to build practical cybersecurity experience through hands-on labs, rooms, and challenges.
+I use TryHackMe for hands-on cybersecurity practice through labs, rooms, and challenges.
 
 ## Certifications & Courses
 
@@ -100,6 +103,4 @@ Using TryHackMe to build practical cybersecurity experience through hands-on lab
 * :octocat: [My GitHub](https://github.com/Kerolos-Naguib)
 * :link: [My LinkedIn](https://www.linkedin.com/in/kerolos-n-a72263316)
 * :shield: [My TryHackMe Profile](https://tryhackme.com/p/SpectreX01)
-* If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself. :grimacing:
 
-![Kerolos's github stats](https://github-readme-stats.vercel.app/api?username=Kerolos-Naguib\&show_icons=true\&hide=issues\&theme=dark)
