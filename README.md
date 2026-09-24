@@ -26,7 +26,7 @@ There are 10 types of people in the world. Those who get Binary and those who do
 * Secure Development
 * Cloud Security
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerolos-Naguib&layout=compact&theme=dark">
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerolos-Naguib&layout=compact&theme=dark">](https://github-readme-stats.vercel.app/api/top-langs?username=Kerolos-Naguib&layout=compact&theme=dark)
 
 ## Programming Languages
 
