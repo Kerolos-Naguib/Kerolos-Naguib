@@ -85,7 +85,7 @@ class WhoAmI:
 
 [![TryHackMe](https://img.shields.io/badge/-SpectreX01-red?style=flat-square\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/SpectreX01)
 
-**Current Rank: Top 35%**
+**Current Rank: Top 20%**
 
 I use TryHackMe for hands-on cybersecurity practice through labs, rooms, and challenges.
 
